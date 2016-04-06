@@ -10,6 +10,9 @@ import Stack.StackException.*;
  *
  * @author db2admin
  */
+ 
+ /* This change is done to test git sync*/
+ 
 public interface Stack {
 
     void push(Object o) throws StackOverFlowException;
